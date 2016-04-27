@@ -1,0 +1,6 @@
+.vs/
+LibuvHttpServer.sdf
+LibuvHttpServer/x64/
+builds/
+ipch/
+x64/
